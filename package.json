@@ -1,0 +1,21 @@
+{
+  "name": "saxxtext",
+  "version": "1.0.0",
+  "description": "A tiny (~0.75kb) javascript library for cool in & out text & hover animations.",
+  "main": "saxxtext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "animation",
+    "text",
+    "animate"
+  ],
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/theuitown/sexxtext.js.git"
+  },
+  "author": "iamharsh.dev",
+  "license": "ISC",
+  "homepage":"https://github.com/theuitown/sexxtext.js#readme"
+}
