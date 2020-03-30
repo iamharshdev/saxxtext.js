@@ -13,9 +13,9 @@
   ],
   "repository":{
     "type":"git",
-    "url":"https://github.com/theuitown/sexxtext.js.git"
+    "url":"https://github.com/theuitown/saxxtext.js.git"
   },
   "author": "iamharsh.dev",
   "license": "ISC",
-  "homepage":"https://github.com/theuitown/sexxtext.js#readme"
+  "homepage":"https://github.com/theuitown/saxxtext.js#readme"
 }
