@@ -18,7 +18,7 @@ npm install --save saxxtext
 ```
 ### *vanillaJS*
 ```html
-<script src="https://iamharsh.design/saxxtext/lib/saxxtext.js"></script>
+<script src="https://iamharsh.dev/saxxtext/lib/saxxtext.js"></script>
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ and just by adding the few lines of code mentioned below can do the job.
 // add to html file
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
-<script src="https://iamharsh.design/saxxtext/lib/saxxtext.js"></script>
+<script src="https://iamharsh.dev/saxxtext/lib/saxxtext.js"></script>
 
 //html example
 
@@ -55,7 +55,7 @@ support all the animations provided by <a href='https://daneden.github.io/animat
 So you can visit their website and see what animation suits you and can use it.
 
 ## Demo
-<h3><a href="https://saxxtext.iamharsh.design/#demo">Click here to see demo</a><h3>
+<h3><a href="https://saxxtext.iamharsh.dev/#demo">Click here to see demo</a><h3>
 
 ## Author
 <a href='https://iamharsh.design/'>Harsh Vardhan Goswami</a>
